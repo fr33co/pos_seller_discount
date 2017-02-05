@@ -10,7 +10,7 @@
     'website': "http://www.4ojos.com.ve",
     'category': 'Point of Sale',
     'version': '0.1',
-    "depends": ['base', 'point_of_sale', 'product'],
+    "depends": ['base', 'point_of_sale'],
     "data": [
         'views/res_users.xml',
         'views/point_of_sale.xml',

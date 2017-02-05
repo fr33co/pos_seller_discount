@@ -14,25 +14,4 @@
     </t>
   </t>
 
-  <t t-name="SellerPopupWidget">
-    <div class="modal-dialog">
-      <div class="popup popup-seller-selection">
-        <div class="seller-title">Seleccionar a un vendedor</div>
-        <div class="content-container" style="height: 63%;">
-          <div id="seller-selection-block" style="height: 100%;">
-            <div id="seller-frame" style="height: 100%;">
-              <ul id="sortable3" class="connectedSortable touch-scrollable" style="height: 100%;">
-                <div id="sellers"></div>
-              </ul>
-            </div>
-          </div>
-        </div>
-        <div class="footer">
-          <div id="pop-order-cancel" class="button seller cancel">Cancel</div>
-          <div id="pop-order-ok" class="button seller ok">Validate</div>
-        </div>
-      </div>
-    </div>
-  </t>
-
 </templates>
